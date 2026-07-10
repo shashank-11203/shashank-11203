@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shashank Solanki
 
-<!--
-**shashank-11203/shashank-11203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.E. Computer Engineering student passionate about
+Full Stack Development, AI and Backend Systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+- Python
+- Retrieval-Augmented Generation
+- Langchain
+- Machine Learning
+- Deep Learning
+
+## Current Focus
+
+- DSA
+- MERN
+- AI Applications
+- RAGs
+- Agentic Ai
+- Backend Architecture
+
+## Projects
+
+- Freelance project - cab booking
+- AutoML Playground
+- RAG based chatbot
+- Audio classification
+- IEEE research paper published
+
+Email:
+shashanksolanki020@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/shashank-solanki789/
